@@ -48,7 +48,7 @@ nav ul li a {
   text-decoration: none;
   padding: 5px 20px 5px 20px;
   background-color: #c0ebff;
-  color: fff;
+  color: #fff;
   text-shadow: 0px 1px 1px;
   border-width: 2px;
   border-style: solid;
@@ -104,8 +104,7 @@ section h3 {
 }
 
 section p {
-  color: rgba (0,0,0,.5);
-  font-size: 20px;
-  line-height: 24px;
-  padding: 2px; 20px;
+  color: #fff;
+  font-size: 16px;
+  font-style: italic;
 }
