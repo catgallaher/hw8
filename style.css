@@ -83,3 +83,29 @@ article p {
   padding: 2px; 20px;
 }
 
+section {
+  top: 35px;
+  background-color: ##ffc0cb;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #fff;
+  padding: 0px;
+  margin: 10px 10px;
+}
+
+section h3 {
+  color: #cbffc0;
+  font-size: 22px;
+  line-height: 14px;
+  margin: 10px 0px 0px;
+  padding: 20px 5px 0px 20px;
+  font-style: bold;
+    text-shadow: 0px 1px 1px;
+}
+
+section p {
+  color: rgba (0,0,0,.5);
+  font-size: 20px;
+  line-height: 24px;
+  padding: 2px; 20px;
+}
