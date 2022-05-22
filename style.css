@@ -1,6 +1,12 @@
 body {
-margin: 0 auto;
-font-size: 20px;
-background-color: ##c0ebff;
-color: ##c0ffd5;
+  margin: 0 auto;
+  font-size: 20px;
+  background-color: ##c0ebff;
+  color: ##c0ffd5;
+}
+
+header {
+  background-color:#ffc0cb;
+  font-size: 60px;
+  font-color:#c0ffd5;
 }
