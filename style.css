@@ -80,11 +80,10 @@ article p {
   color: rgba (0,0,0,.5);
   font-size: 20px;
   line-height: 24px;
-  padding: 2px; 20px;
+  padding: 2px 20px;
 }
 
 section {
-  top: 35px;
   background-color: ##ffc0cb;
   border-style: solid;
   border-width: 4px;
