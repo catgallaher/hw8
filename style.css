@@ -7,7 +7,7 @@ body {
 header {
   position: relative;
   height: 150px;
-  background-color:#ffc0cb;
+  background-color: #ffc0cb;
   border-style: solid;
   border-width: 5px;
   border-color: #fff;
@@ -140,9 +140,41 @@ aside p {
   padding: 10px 20px 0px 20px;
 }
 
+aside ul {
+  text-align: center;
+  font-family: georgia;
+  font-style: italic;
+  list-style: none;
+  border-radius: 16px;
+}
+
+aside ul li {
+  display: inline-block;
+  height: 20px;
+  white-space: nowrap;
+  border-radius: 16px;
+}
+
+aside ul li a {
+  text-decoration: none;
+  padding: 5px;
+  background-color: #c0ffd5;
+  color: #fff;
+  text-shadow: 0px 1px 1px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #c0ffd5;
+  border-radius: 16px;
+}
+
 footer {
   border-color: #fff;
-  border-style: double;
-  border-size: 2px;
-  color: #ffc0cb;
+  border-style: solid;
+  border-size: 10px;
+  color: #fff;
+text-align: center;
+font-weight: bold;
+background-color: #ffc0cb;
+top: -566px;
+position: relative;
 }
