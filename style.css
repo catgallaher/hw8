@@ -35,3 +35,22 @@ nav ul {
   font-style: italic;
   list-style: none;
 }
+
+nav ul li {
+  display: inline-block;
+  height: 20px;
+  width: 90px;
+  margin: 0px 55px 0px 5px;
+  white-space: nowrap;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 5px 20px 5px 20px;
+  background-color: #c0ebff;
+  color: fff;
+  text-shadow: 0px 1px 1px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #fff;
+}
