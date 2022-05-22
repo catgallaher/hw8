@@ -74,6 +74,7 @@ article h2 {
   margin: 20px 0px 0px;
   padding: 10px 20px;
   font-style: bold;
+  text-shadow: 0px 2px 2px;
 }
 
 article p {
@@ -99,7 +100,7 @@ section h3 {
   margin: 10px 0px 0px;
   padding: 20px 5px 0px 20px;
   font-style: bold;
-  text-shadow: 0px 1px 1px;
+  text-shadow: 0px 2px 2px;
 }
 
 section p {
