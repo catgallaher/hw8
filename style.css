@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  background-color: #c0ebff;
+  background-color: ##ffd5c0;
   width: 950px;
 }
 
@@ -58,7 +58,7 @@ nav ul li a {
 article {
   position: relative;
   top: 35px;
-  background-color: #ffd5c0;
+  background-color: ##c0ebff;
   border-style: solid;
   border-width: 10px;
   border-color: #fff;
@@ -84,7 +84,7 @@ article p {
 }
 
 section {
-  background-color: ##ffc0cb;
+  background-color: #ffc0cb;
   border-style: solid;
   border-width: 4px;
   border-color: #fff;
