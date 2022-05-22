@@ -109,3 +109,33 @@ section p {
   font-style: italic;
   line-height: 22px;
 }
+
+aside {
+  position: relative;
+  top: -535px;
+  left: 640px;
+  background-color: #c0ebff;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #fff;
+  text-shadow: 0px 1px 1px;
+  height: 550px;
+  width: 600px;
+}
+
+aside h2 {
+  color: #cbffc0;
+  font-size: 24px;
+  line-height: 14px;
+  margin: 20px 0px 0px;
+  padding: 10px 20px;
+  font-style: bold;
+  text-shadow: 0px 2px 2px;
+}
+
+aside p {
+  color: rgba (0,0,0,.5);
+  font-size: 16px;
+  line-height: 24px;
+  padding: 2px 20px;
+}
