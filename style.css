@@ -68,13 +68,13 @@ article {
 }
 
 article h2 {
-  color: #cbffc0;
+  color: #fff;
   font-size: 24px;
   line-height: 14px;
   margin: 20px 0px 0px;
   padding: 10px 20px;
   font-style: bold;
-  text-shadow: 0px 2px 2px;
+  text-shadow: 0px 1px 1px;
 }
 
 article p {
@@ -100,19 +100,19 @@ section h3 {
   margin: 10px 0px 0px;
   padding: 20px 5px 0px 20px;
   font-style: bold;
-  text-shadow: 0px 2px 2px;
+  text-shadow: 0px 1px 1px;
 }
 
 section p {
   color: #fff;
-  font-size: 13px;
+  font-size: 15px;
   font-style: italic;
   line-height: 22px;
 }
 
 aside {
   position: relative;
-  top: -535px;
+  top: -585px;
   left: 640px;
   background-color: #c0ebff;
   border-style: solid;
@@ -120,17 +120,17 @@ aside {
   border-color: #fff;
   text-shadow: 0px 1px 1px;
   height: 600px;
-  width: 302px;
+  width: 290px;
 }
 
 aside h2 {
-  color: #cbffc0;
+  color: #fff;
   font-size: 24px;
   line-height: 14px;
   margin: 20px 0px 0px;
   padding: 10px 20px;
   font-style: bold;
-  text-shadow: 0px 2px 2px;
+  text-shadow: 0px 1px 1px;
 }
 
 aside p {
@@ -138,4 +138,11 @@ aside p {
   font-size: 16px;
   line-height: 24px;
   padding: 10px 20px 0px 20px;
+}
+
+footer {
+  border-color: #fff;
+  border-style: double;
+  border-size: 2px;
+  color: #ffc0cb;
 }
