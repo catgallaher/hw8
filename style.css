@@ -78,7 +78,7 @@ article h2 {
 
 article p {
   color: rgba (0,0,0,.5);
-  font-size: 20px;
+  font-size: 16px;
   line-height: 24px;
   padding: 2px 20px;
 }
@@ -104,7 +104,7 @@ section h3 {
 
 section p {
   color: #fff;
-  font-size: 16px;
+  font-size: 13px;
   font-style: italic;
   line-height: 22px;
 }
